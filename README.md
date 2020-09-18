@@ -1,5 +1,5 @@
 # João Pedro Gomes
-<img align="right" height="200" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"/>
+<img align="right" height="200" src="https://user-images.githubusercontent.com/62070762/93629008-e8515180-f9bd-11ea-9159-61b8acfec488.gif"/>
 
 ### Hello There! :wave:
 - :rocket: I'm looking for new challenges  
