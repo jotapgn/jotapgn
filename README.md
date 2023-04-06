@@ -7,6 +7,7 @@
 ![Html Badge](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![Css3 Badge](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![AngulasJs Badge](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
@@ -18,7 +19,6 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 #### :pushpin: Contact: 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-gomes/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:joaopedrogomes26@gmail.com)
 
 #### :chart_with_upwards_trend: My Stats:
 <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=jotapgn&show_icons=true&theme=default"/>
