@@ -16,8 +16,8 @@
 ![DotNET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) 
 ![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-
 ![SQLLite Badge](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+
 ![MongoDb Badge](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 #### 📌 Contact: 
