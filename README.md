@@ -22,6 +22,3 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 #### 📌 Contact: 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-gomes/)
-
-#### 📈 My Stats:
-<img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=jotapgn&show_icons=true&theme=default"/>
